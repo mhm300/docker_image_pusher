@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 herberthe0229/iptv-sources
 diygod/rsshub
+gdy666/lucky
