@@ -7,3 +7,4 @@ xhofe/alist:latest
 herberthe0229/iptv-sources
 diygod/rsshub
 gdy666/lucky
+idootop/mi-gpt
